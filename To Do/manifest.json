@@ -1,0 +1,8 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name":"To-do",
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
