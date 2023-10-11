@@ -4,5 +4,7 @@
     "name":"To-do",
     "action": {
         "default_popup": "popup.html"
-    }
+    },
+    "permissions": ["activeTab"]
+    
 }

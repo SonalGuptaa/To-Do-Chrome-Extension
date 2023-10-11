@@ -67,7 +67,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(images/radio.png);
+    background-image: url(images/radio1.png);
     background-size: cover;
     background-position: center;
     top: 12px;
@@ -78,7 +78,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url(images/check-mark.png);
+    background-image: url(images/check-mark1.png);
 }
 ul li span{
     position: absolute;
